@@ -20,11 +20,11 @@ This project is a simple implementation of the popular Snakes and Ladders (also 
 git clone https://github.com/yourusername/snakes-and-ladders.git
 ```
 2. Make sure you have Python installed on your system.
-3. Run the game by executing the Python script:
+3. Run the game by executing the Python script: Replace `"yourusername"` in the clone command, and add your name as the author. You can also add any specific instructions or acknowledgments as needed.
 ```bash
 python snakes_and_ladders.py
 ```
-Replace `"yourusername"` in the clone command, and add your name as the author. You can also add any specific instructions or acknowledgments as needed.
+
 
 ## How to Play
 - Player 1 uses the 'Down' key to roll the dice.
@@ -36,7 +36,7 @@ Replace `"yourusername"` in the clone command, and add your name as the author. 
 
 ## Contributions
 - Contributions are welcome. If you have any ideas for improvements or new features, feel free to fork the repository and create a pull request.
-- 
+  
 ## License
 This project is open-source and available under the MIT License.
 
