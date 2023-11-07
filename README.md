@@ -6,6 +6,8 @@ A Python implementation of the classic Snakes and Ladders game using the Turtle 
 
 This project is a simple implementation of the popular Snakes and Ladders (also known as Chutes and Ladders) board game. It allows two players to take turns rolling dice and move their game pieces across the board. The game also features ladders that help players progress and snakes that set them back.
 
+Watch the project in action by checking out the video on [YouTube](https://youtu.be/bjgOrAyTI5A).
+
 ## Features
 
 - Two-player mode: Play with a friend and take turns rolling the dice.
